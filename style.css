@@ -1,0 +1,32 @@
+.container{
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    width: 180px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+    padding: 20px;
+    justify-content: center;
+    background-color: rgb(236, 243, 241);
+}
+
+.display{
+    border: 1px solid gray;
+    border-radius: 08px;
+    width: 200px;
+    display: block;
+    margin-bottom: 20px;
+    height: 25px;
+    font-size: 15px;
+}
+
+.btn1{
+    height: 35px;
+    width: 35px;
+    font-size: 17px;
+    margin: 1px;
+    padding: 5px;
+    background-color: rgb(249, 254, 255);
+
+}
+
